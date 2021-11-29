@@ -1,0 +1,10 @@
+const ID = "id";
+const NAME = "name";
+const COORDINATE = "coordinate";
+const DATE = "date";
+const DISCOUNT = "discount";
+const PRICE = "price";
+const TYPE = "type";
+const PERSON = "person";
+const EDIT_COORD = "editCoord";
+export {ID, NAME, COORDINATE, DATE, DISCOUNT, PRICE, TYPE, PERSON, EDIT_COORD};

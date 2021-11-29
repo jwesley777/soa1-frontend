@@ -1,0 +1,11 @@
+// export const SET_GENRE_COUNT = "SET_GENRE_COUNT"
+// export const SET_GENRE = "SET_GENRE"
+// export const SET_DISCOUNT = "SET_DISCOUNT"
+// export const SET_DISCOUNT_COUNT = "SET_DISCOUNT_COUNT"
+// export const SET_PERSON = "SET_PERSON"
+// export const SET_PERSON_LIST = "SET_PERSON_LIST"
+export const SET_TYPE_LIST = "SET_TYPE_LIST";
+export const SET_TICKET_COUNT = "SET_TICKET_COUNT";
+export const SET_TICKET_LIST = "SET_TICKET_LIST";
+export const SET_PERSON_LIST = "SET_PERSON_LIST";
+export const SET_DISCOUNT = "SET_DISCOUNT";
